@@ -1,0 +1,28 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "$id": "entry-points.json",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "734eaf5b-559f-49f2-96c3-7d2ec4733bfd",
+      "type": "Process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_Location": {
+            "type": "string"
+          }
+        },
+        "required": []
+      },
+      "output": {
+        "type": "object",
+        "properties": {
+          "out_WeatherData": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  ]
+}

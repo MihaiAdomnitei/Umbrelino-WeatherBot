@@ -1,0 +1,27 @@
+{
+  "DocVersion": "1.0.0",
+  "StudioMinVersion": "2025.04.0",
+  "SolutionId": "119e6493-c9be-47e6-1c91-08ddc85e4336",
+  "Projects": [
+    {
+      "Type": "Process",
+      "ProjectRelativePath": "Weather Extract/project.uiproj",
+      "Id": "72401d1d-ae49-4bef-9f26-7dd5fe913862"
+    },
+    {
+      "Type": "Process",
+      "ProjectRelativePath": "Email Sender/project.uiproj",
+      "Id": "665f2aeb-466f-40c0-93bf-3759d66ee3dd"
+    },
+    {
+      "Type": "Agent",
+      "ProjectRelativePath": "Agent/project.uiproj",
+      "Id": "119a31e6-e89e-4990-b1f1-553f17677e95"
+    },
+    {
+      "Type": "Process",
+      "ProjectRelativePath": "Start Umbrelino/project.uiproj",
+      "Id": "d30f8dd5-0a03-4220-bdd6-c7b65559995d"
+    }
+  ]
+}
